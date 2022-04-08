@@ -1,0 +1,1 @@
+#define OUT_PROMPT KERN_INFO "[MSR_SCAN]: "
